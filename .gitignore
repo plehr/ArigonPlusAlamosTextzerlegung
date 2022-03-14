@@ -1,0 +1,4 @@
+/target/
+/libs/
+src/main/example/*.txt
+src/test/
